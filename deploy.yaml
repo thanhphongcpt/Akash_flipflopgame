@@ -23,10 +23,10 @@ profiles:
   placement:
     westcoast:
       attributes:
-        organization: thanhphong
+        organization: ovrclk.com
       signedBy:
         anyOf:
-          - "akash1j0wftrkr348gn3247p756w657u5xgypy3xrq0d"
+          - "akash1ds82uk3pzawavlasc2qd88luewzye2qrcwky7t"
       pricing:
         web: 
           denom: uakt
