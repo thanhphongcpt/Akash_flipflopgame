@@ -26,7 +26,7 @@ profiles:
         organization: thanhphong
       signedBy:
         anyOf:
-          - "akash1vz375dkt0c60annyp6mkzeejfq0qpyevhseu05"
+          - "akash1j0wftrkr348gn3247p756w657u5xgypy3xrq0d"
       pricing:
         web: 
           denom: uakt
